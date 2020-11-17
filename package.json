@@ -1,0 +1,11 @@
+{
+  "name": "comp127-final",
+  "version": "1.0.0",
+  "description": "final project for comp127. anonymous web forum for verified users.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "m_bondale@u.pacific.edu",
+  "license": "SEE LICENSE IN LICENSE.md"
+}
